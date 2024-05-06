@@ -39,13 +39,14 @@ Execute the C Program for the desired output.
 ```
 
 ## Output
+```
 
 -rwxr-xr-x   
  1 root
      root    
      18348 Apr 17 14:14 file.o
 
-
+```
 
 
 ## 2.To Write a C program that illustrates files locking
@@ -92,14 +93,14 @@ Execute the C Program for the desired output.
 
 ## OUTPUT
 
-
+```
 -rwxr-xr-x   
  1 root
      root    
      18376 Apr 17 14:20 text.o
  3 of 4
  25-04-2024, 20:1
-
+```
 
 
 # RESULT:
