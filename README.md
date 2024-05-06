@@ -39,14 +39,9 @@ Execute the C Program for the desired output.
 ```
 
 ## Output
-```
 
--rwxr-xr-x   
- 1 root
-     root    
-     18348 Apr 17 14:14 file.o
+![Screenshot 2024-05-06 191935](https://github.com/MOHAMEDAAKIFASRAR/Linux-File-IO-Systems-locking/assets/148514683/6e12e587-1485-4141-80d3-0af0fff89551)
 
-```
 
 
 ## 2.To Write a C program that illustrates files locking
@@ -93,14 +88,8 @@ Execute the C Program for the desired output.
 
 ## OUTPUT
 
-```
--rwxr-xr-x   
- 1 root
-     root    
-     18376 Apr 17 14:20 text.o
- 3 of 4
- 25-04-2024, 20:1
-```
+
+![Screenshot 2024-05-06 191944](https://github.com/MOHAMEDAAKIFASRAR/Linux-File-IO-Systems-locking/assets/148514683/b2284dcd-70e6-45e0-b4e9-30fd6366abad)
 
 
 # RESULT:
